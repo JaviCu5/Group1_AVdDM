@@ -5,4 +5,4 @@ Aqui apareixerà el codi amb que s'ha fet el tractament de dades de les trucades
 
 Javier Castillo: javierCastillo.ipynb
 Mireia Olives: MireiaOlives.ipynb
-
+Emma Oriol: EmmaOriol.ipynb
